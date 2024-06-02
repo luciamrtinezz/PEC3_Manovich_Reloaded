@@ -59,6 +59,7 @@ En conclusión la hibridación, según Manovich, en "Rain Room" se manifiesta en
 **"Purple Cat"** es un artista musical conocido por su música lo-fi y chillhop, perfecta para relajarse, estudiar o meditar. Sus ritmos suaves y atmósferas tranquilas combinan elementos de jazz, hip-hop y electrónica, creando paisajes sonoros melódicos y envolventes. Con un nombre que evoca misterio y creatividad, Purple Cat ha ganado popularidad en la comunidad lo-fi, ofreciendo una experiencia auditiva calmante y reconfortante que resuena con quienes buscan un escape del ruido diario. Además, cuenta con una comunidad dedicada de seguidores y animaciones que complementan su temática, enriqueciendo la experiencia visual y emocional de su música.
 Analizándolo con los principios de hibridación de Lev Manovich, podemos destacar lo siguiente:
 
+
 **Factores de hibridación:**
 
 1.  **Fusión de Medios**:
