@@ -1,1 +1,1 @@
-# PEC3_Manovich_Reloaded
+# PEC3_Visionando_el_futuro_con_las_gafas_de_Manovich
