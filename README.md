@@ -1,7 +1,16 @@
 # PEC3_Visionando el futuro con las gafas de Manovich
 **Recurso de aprendizaje de la asignatura Cultura Digital**
+
+
+
 Autor: Lucía Martínez Falcón
+
+
+
 **Grado de Multimedia.**
+
+
+
 Fecha 01/06/2024
 
 
