@@ -29,7 +29,7 @@ Los aspectos más importante de la hibridación, enumerados en la obra de Manovi
 
 Estos aspectos reflejan cómo la hibridación de medios redefine los límites entre diferentes formas de expresión y abre nuevas posibilidades para la creatividad y la comunicación en la era digital.
 
-![Museo Arte Digital] (https://github.com/luciamrtinezz/PEC3_Manovich_Reloaded/blob/main/5fa43edd2c717.jpeg)
+![Museo Arte Digital](https://github.com/luciamrtinezz/PEC3_Manovich_Reloaded/blob/main/5fa43edd2c717.jpeg)
 
 ## Re-descubriendo la hibridación: Rain Room:
 **"Rain Room"** es una instalación artística interactiva creada por Random International que permite a los visitantes caminar bajo una lluvia artificial sin mojarse, gracias a la tecnología de detección de movimiento que controla el flujo de agua en tiempo real. Presentada por primera vez en 2012 en el Barbican Centre de Londres, la obra ha viajado a museos de renombre mundial como el MoMA en Nueva York y el LACMA en Los Ángeles. Esta instalación crea una experiencia inmersiva que fusiona tecnología y naturaleza, desafiando las percepciones sensoriales y ofreciendo una reflexión sobre la relación entre los seres humanos, la tecnología y el entorno. 
